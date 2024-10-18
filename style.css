@@ -1,10 +1,10 @@
 body {
-background-color: darkgrey;
-color:cornsilk;
+background-color:gainsboro;
+color:darkgray;
 }
 
 header {
     font-size: 34px;
- border-bottom: solid 3px cornsilk; 
+ border-bottom: solid 3px gainsboro; 
     text-align: center;
 }
