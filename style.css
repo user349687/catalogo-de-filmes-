@@ -2,3 +2,7 @@ body {
 background-color: darkgrey;
 color:cornsilk;
 }
+
+header {
+    font: size 36px;
+}
