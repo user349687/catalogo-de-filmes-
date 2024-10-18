@@ -4,6 +4,7 @@ color:cornsilk;
 }
 
 header {
-    font: size 48px;
-    color:ivory
+    font-size 48px;
+    color:ivory;
+    text-align: center;
 }
