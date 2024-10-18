@@ -8,3 +8,9 @@ header {
  border-bottom: solid 3px gainsboro; 
     text-align: center;
 }
+
+
+section{
+display: flex;
+background-color: darkgrey;
+}
