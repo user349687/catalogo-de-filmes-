@@ -4,13 +4,8 @@ color:darkgray;
 }
 
 header {
-    font-size: 34px;
+    font-size: 38px;
  border-bottom: solid 3px gainsboro; 
     text-align: center;
 }
 
-
-section{
-display: flex;
-background-color: gainsboro;
-}
